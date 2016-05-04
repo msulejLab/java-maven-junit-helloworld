@@ -41,6 +41,12 @@ public class Hello {
 		System.out.println("Blah2...");
 	}
 
+	public void anotherNiceMethod() {
+		if (2 % 2 == 0) {
+			System.out.println(":)");		
+		}
+	}
+
 	/*
 	public void shouldntCompile() {
 		
