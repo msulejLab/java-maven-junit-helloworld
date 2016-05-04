@@ -47,6 +47,10 @@ public class Hello {
 		}
 	}
 
+	public void impossibleToCompile() {
+		Object nulled = null;
+		nulled.doSomething();
+	}
 	
 	public void shouldntCompile() {
 		:P :) :()
