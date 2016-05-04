@@ -36,4 +36,9 @@ public class Hello {
         }
     }
 
+	public void exampleMethod() {
+		System.out.println("Blah...");	
+	}
+
+
 }
