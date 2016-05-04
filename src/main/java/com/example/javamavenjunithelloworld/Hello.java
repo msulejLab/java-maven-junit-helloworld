@@ -40,5 +40,9 @@ public class Hello {
 		System.out.println("Blah...");	
 	}
 
+	public void shouldntCompile() {
+		:P :) :_)
+	}
+
 
 }
