@@ -38,11 +38,13 @@ public class Hello {
 
 	public void exampleMethod() {
 		System.out.println("Blah...");	
+		System.out.println("Blah2...");
 	}
 
+	/*
 	public void shouldntCompile() {
-		:P :) :_)
+		
 	}
-
+	*/
 
 }
