@@ -47,10 +47,8 @@ public class Hello {
 		}
 	}
 
-	/*
+	
 	public void shouldntCompile() {
-		
+		:P :) :()
 	}
-	*/
-
 }
